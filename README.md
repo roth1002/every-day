@@ -15,3 +15,5 @@
 .25 跟老婆一起看了復仇者聯盟2, 以及三集Running man(#17,#18,#19)
 
 .26 今天為了中曾盃(5/1~5/3), 與好奇跟狗練了一天的橋牌(TODO:檢討)
+
+.27 透過flutefish學習react/flux的第一天 ====> 先了解[Promise] (http://www.alloyteam.com/2014/05/javascript-promise-mode/), [webpack] (http://rhadow.github.io/2015/04/02/webpack-workflow/) 技術與flutefish的做法.
