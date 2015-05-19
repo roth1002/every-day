@@ -65,3 +65,5 @@
 
 .18 今天看完的JS優良部份, 保留的繼承的部分上網路跟朝著JS設計模式去補足這塊, 因為優良部份可能因為翻譯的關係看不太懂/__\
 
+.19 Jeremy大大的React/Flux課程因為他在國內時間不固定, 所以怕影響大家的週末決定取消T__T, 還好說很快會改成線上Streamming教學, 但我按耐不住性子決定開始練習React/Flux, 就順手開個專案 [startLearnReactFlux](https://github.com/roth1002/startLearnReactFlux)
+
