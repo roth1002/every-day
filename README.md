@@ -67,3 +67,5 @@
 
 .19 Jeremy大大的React/Flux課程因為他在國內時間不固定, 所以怕影響大家的週末決定取消T__T, 還好說很快會改成線上Streamming教學, 但我按耐不住性子決定開始練習React/Flux, 就順手開個專案 [startLearnReactFlux](https://github.com/roth1002/startLearnReactFlux)
 
+.20 了解 React 的 state props refs的作用, 使用方式, 如何定義
+
