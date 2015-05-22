@@ -69,3 +69,7 @@
 
 .20 了解 React 的 state props refs的作用, 使用方式, 如何定義
 
+.21 今天....Leo大大詳細的講解React/Flux如何從零開始....明天要來自己實作＠＠
+
+.22 一實作就在KOA卡住好久....  最後還是模仿tj的co-view成功從後端吐HTML  不考慮安全性的狀態下將build的目錄給static出去, 讓HTML讀取ReactJS or CSS可以有router讀取.(Frond-End對我來說真是太多關卡要快點破關>< 信心被打擊中)
+
