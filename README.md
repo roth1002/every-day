@@ -71,7 +71,7 @@
 
 .21 今天....Leo大大詳細的講解React/Flux如何從零開始....明天要來自己實作＠＠
 
-.22 一實作就在KOA卡住好久....  最後還是模仿tj的co-view成功從後端吐HTML  不考慮安全性的狀態下將build的目錄給static出去, 讓HTML讀取ReactJS or CSS可以有router讀取.(Frond-End對我來說真是太多關卡要快點破關>< 信心被打擊中)
+.22 一實作就在KOA卡住好久....  最後還是模仿tj的co-view成功從後端吐HTML  Leo大一站在我後面我就將build的目錄給static出去（應該是先前我有做錯而不知覺), 讓HTML讀取ReactJS or CSS可以有router讀取.(Frond-End對我來說真是太多關卡要快點破關>< 信心被打擊中)
 
 .23 今天來到Node School舉辦的Node初學....打好基礎的開始
 
