@@ -73,3 +73,9 @@
 
 .22 一實作就在KOA卡住好久....  最後還是模仿tj的co-view成功從後端吐HTML  不考慮安全性的狀態下將build的目錄給static出去, 讓HTML讀取ReactJS or CSS可以有router讀取.(Frond-End對我來說真是太多關卡要快點破關>< 信心被打擊中)
 
+.23 今天來到Node School舉辦的Node初學....打好基礎的開始
+
+.24 Running Man一整天 順便把Node School的 Promise (use q) 破完
+
+.25 順手開了一個初學Go的專案紀錄一下Go的基本用法
+
