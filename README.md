@@ -79,3 +79,5 @@
 
 .25 順手開了一個初學Go的專案紀錄一下Go的基本用法
 
+.26 [Go-Gook](http://www.golang-book.com/books/intro) 參考這個熟悉Go
+
