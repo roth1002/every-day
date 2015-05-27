@@ -81,3 +81,5 @@
 
 .26 [Go-Gook](http://www.golang-book.com/books/intro) 參考這個熟悉Go
 
+.27 基本的Go學得差不多了, 依照golang-book建議我們要去看高手的go專案, 差不多要來看go的源碼了, 有機會希望可以就此參與開源
+
