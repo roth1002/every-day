@@ -99,3 +99,5 @@
 .2 今天很好心地教人 Big5用UTF-8 encode會發生什麼事情
 
 .3 今天請了假....因為老婆生病又燙傷的關係....
+
+.4 今天對Go的interface不太理解其某些運作, 所以參考了這篇 http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go, 看了一半.....越看越不懂＝＝
