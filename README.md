@@ -103,3 +103,9 @@
 .4 今天對Go的interface不太理解其某些運作, 所以參考了這篇 http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go, 看了一半.....越看越不懂＝＝
 
 .5 今天報名了一下在台大開的Laravel分享會 6/11晚上, 另外看了一下最近很紅的文章, 有關redux的設計理念...., 在heroku上跑了一下Rails new出來的Hello World XD
+
+.6 Leo大大的提醒讓我來的及聽到jsdctw的演講, jeremy大大開了一個repo讓大家去看
+https://github.com/coodoo/webpack-guide
+
+.7 Running Man了一天
+
