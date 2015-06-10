@@ -109,3 +109,8 @@ https://github.com/coodoo/webpack-guide
 
 .7 Running Man了一天
 
+.8 今天小陸去洗澡發現身上好多跳蚤....馬上把毛剃光買個蚤不到來幫他除蚤
+
+.9 去回診腸胃科, 照了一下超音波確定自己肝膽是無事的, 果然有品質保證的診所就跟員工健康檢查的醫生細心度不同
+
+.10 複習了一下webpack, 發現我對webpack-dev-server 跟 react-hot-loader變陌生了, 應該要多用才對...囧
