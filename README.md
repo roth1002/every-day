@@ -116,3 +116,5 @@ https://github.com/coodoo/webpack-guide
 .9 去回診腸胃科, 照了一下超音波確定自己肝膽是無事的, 果然有品質保證的診所就跟員工健康檢查的醫生細心度不同
 
 .10 複習了一下webpack, 發現我對webpack-dev-server 跟 react-hot-loader變陌生了, 應該要多用才對...囧
+
+.11 今天看到codecademy多了Angular 1.x版本的課程, 看來應該有空來稍微涉獵一點好了XD, 本來去年就想學一點Angular, 另外發現Go在一般情況下udp不需要特別設定local的IP port, 原本以為一定要設定才能讓 net.DialUdp(Conn, local, server) 才能收到對方回傳的封包, 結果其實不用.....應該不算踩雷吧～～
