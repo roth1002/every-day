@@ -119,8 +119,22 @@ https://github.com/coodoo/webpack-guide
 
 .11 今天看到codecademy多了Angular 1.x版本的課程, 看來應該有空來稍微涉獵一點好了XD, 本來去年就想學一點Angular, 另外發現Go在一般情況下udp不需要特別設定local的IP port, 原本以為一定要設定才能讓 net.DialUdp(Conn, local, server) 才能收到對方回傳的封包, 結果其實不用.....應該不算踩雷吧～～
 
-.12 今天和學生時代的老朋友們練牌, 真是開心
+.12 開始碰一些Rails
 
-.13 今天中午吃了阿官火鍋, 下午陪老婆逛了H&M, 回家遇到辛亥隧道有水簾洞XD
+.13 今天和學生時代的老朋友們練牌, 真是開心
 
-.14 看了一些Haskell
+.14 今天中午吃了阿官火鍋, 下午陪老婆逛了H&M, 回家遇到辛亥隧道有水簾洞XD
+
+.15 看了一些Haskell
+
+.16 看了一下github上Go的testing大家怎麼寫...., 做了一些Rails新手村的事情, 然後逛了逛github
+
+.17 姪子發燒住院幫忙顧
+
+.18 還是幫忙顧
+
+.19 休息一天....
+
+.20 陪老婆Running Man了一天
+
+
