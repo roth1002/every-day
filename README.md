@@ -166,3 +166,5 @@ https://github.com/coodoo/webpack-guide
 .2  React 歐洲 Conference今天開始, 聽了一些傳教, 剩下要半夜消化了......
 
 .3  繼續看egghead.io的React課程, 希望今天看得完lol
+
+.4
